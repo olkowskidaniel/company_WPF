@@ -1,0 +1,17 @@
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Programowanie\Windows\Projekty\company\Company\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company_MarkupCompile.cache
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company_MarkupCompile.lref
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.g.resources
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Programowanie\Windows\Projekty\company\Company\Company\obj\Debug\netcoreapp3.1\Company.pdb

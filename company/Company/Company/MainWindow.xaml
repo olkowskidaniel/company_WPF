@@ -1,0 +1,62 @@
+﻿<Window x:Class="Company.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Company"
+        mc:Ignorable="d"
+        Title="Kompania" Width="1000" Height="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="MENU"
+               Grid.Row="1"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center"
+               FontSize="25"
+               FontWeight="Bold"/>
+        <Button x:Name="employeesPButton"
+                Content="Etat P"
+                Grid.Row="2"
+                Margin="5"/>
+        <Button x:Name="employeesWButton"
+                Content="Etat W"
+                Grid.Row="3"
+                Margin="5"/>
+        <Button x:Name="sheduleButton"
+                Content="Grafik"
+                Grid.Row="4"
+                Margin="5"/>
+        <Button x:Name="tasksButton"
+                Content="Zadania"
+                Grid.Row="5"
+                Margin="5"/>
+        <Button x:Name="personalDataButton"
+                Content="Dane osobowe"
+                Grid.Row="6"
+                Margin="5"/>
+        <Button x:Name="exitButton"
+                Content="Wyjdź"
+                Grid.Row="12"
+                Margin="5"/>
+      
+    </Grid>
+</Window>
